@@ -1,0 +1,87 @@
+layout_spectrum: 0.26549104156913145
+typography_spectrum: 0.6437043587936292
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.5665470180303633
+  lightness: 0.22805456875961755
+  saturation: 0.7083254787720518
+  rhythmicContrast: 0.9872022426301742
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f8cc5-1235-4b41-ab2f-5f7f61643b36.png
+name: Trevor Mears | Las Vegas SEO Expert & Digital Marketing Consultant
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Las Vegas SEO Services
+    id: 6ba428a8-9073-42cb-a4fb-abca990fd532
+    type: content
+  - name: My Process
+    id: d0036f63-d71d-41f8-a826-5bbb95b8ce5e
+    type: content
+  - name: What is SEO?
+    id: 4fe3fa03-9bac-4afb-a1bd-e6ac09ed0bb6
+    type: content
+  - name: Shiftframe
+    url: 'https://shiftframe.com'
+    type: external
+  - name: Post Launch
+    url: 'https://postlaunch.co'
+    type: external
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/trevormears'
+    type: external
+title: Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4831393e-1e42-452e-8339-8e8b0d9263f2.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4831393e-1e42-452e-8339-8e8b0d9263f2.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears.  Contact
+  Trevor today for a FREE website analysis to see how your site is currently
+  performing in search engines.
+purpose:
+  - type: contact
+    url: 'mailto:trevor@shiftframe.com'
+    label: Contact me
+  - type: contact
+    url: 'tel:7025189420'
+    label: Call (702) 518-9420
+author:
+  name: Trevor Mears
+  email: trevor@shiftframe.com
+  url: 'http://trevormears.com'
+analytics:
+  google: UA-99971719-1
+url: 'https://trevormears.com'
+github: true
