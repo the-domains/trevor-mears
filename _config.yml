@@ -1,4 +1,3 @@
-layout_spectrum: 0.2919329657137283
 typography_spectrum: 0.6494201442218469
 color:
   brandColors:
@@ -11,9 +10,18 @@ color:
   lightness: 0.22151678802685276
   saturation: 0.9723906275971175
   rhythmicContrast: 0.49445062653530425
+github: true
+layout_spectrum: 0.2919329657137283
+analytics:
+  google: UA-99971719-1
+author:
+  name: Trevor Mears
+  email: trevor@shiftframe.com
+  url: 'http://trevormears.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f8cc5-1235-4b41-ab2f-5f7f61643b36.png
 name: Trevor Mears | Las Vegas SEO Expert & Digital Marketing Consultant
+url: 'https://trevormears.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -37,6 +45,9 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/trevormears'
     type: external
+  - name: Las Vegas SEO
+    id: 162ec4a0-1a78-4a5c-a47c-92f49cf84a9d
+    type: content
 title: Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -74,11 +85,3 @@ purpose:
   - type: contact
     url: 'tel:7025189420'
     label: Call (702) 518-9420
-author:
-  name: Trevor Mears
-  email: trevor@shiftframe.com
-  url: 'http://trevormears.com'
-analytics:
-  google: UA-99971719-1
-url: 'https://trevormears.com'
-github: true
