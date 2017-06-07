@@ -30,7 +30,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Las Vegas SEO
+  - name: SEO Services
     id: 162ec4a0-1a78-4a5c-a47c-92f49cf84a9d
     type: content
   - name: My Process
