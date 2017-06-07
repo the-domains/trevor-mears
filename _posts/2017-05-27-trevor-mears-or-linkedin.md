@@ -17,8 +17,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.linkedin.com/in/trevormears'
 title: Trevor Mears | LinkedIn
-datePublished: '2017-05-28T00:35:16.179Z'
-dateModified: '2017-05-28T00:35:15.968Z'
+datePublished: '2017-05-28T02:50:00.976Z'
+dateModified: '2017-05-28T02:50:00.810Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-27-trevor-mears-or-linkedin.md
