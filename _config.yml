@@ -1,4 +1,4 @@
-typography_spectrum: 0.6426826775554421
+typography_spectrum: 0.6494201442218469
 color:
   brandColors:
     - '#000000'
@@ -6,14 +6,22 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.41191383514239793
-  lightness: 0.008040482611718153
-  saturation: 0.9450567269652602
-  rhythmicContrast: 0.660141488989852
-layout_spectrum: 0.26951200701517636
+  brandStrength: 0.5692042780453617
+  lightness: 0.22151678802685276
+  saturation: 0.9723906275971175
+  rhythmicContrast: 0.49445062653530425
+github: true
+layout_spectrum: 0.2919329657137283
+analytics:
+  google: UA-99971719-1
+author:
+  name: Trevor Mears
+  email: trevor@shiftframe.com
+  url: 'http://trevormears.com'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f8cc5-1235-4b41-ab2f-5f7f61643b36.png
 name: Trevor Mears | Las Vegas SEO Expert & Digital Marketing Consultant
+url: 'https://trevormears.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -22,8 +30,8 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Las Vegas SEO Services
-    id: 6ba428a8-9073-42cb-a4fb-abca990fd532
+  - name: SEO Services
+    id: 162ec4a0-1a78-4a5c-a47c-92f49cf84a9d
     type: content
   - name: My Process
     id: d0036f63-d71d-41f8-a826-5bbb95b8ce5e
@@ -40,7 +48,7 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/trevormears'
     type: external
-title: Las Vegas SEO Expert & Digital Marketing Consultant | Trevor Mears
+title: Your SEO Expert
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -66,19 +74,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Las Vegas SEO Expert, Digital Marketing Consultant, Full Stack Developer'
+description: >-
+  Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears.  Contact
+  Trevor today for a FREE website analysis to see how your site is currently
+  performing in search engines.
 purpose:
-  - type: contact
-    url: 'mailto:trevor@shiftframe.com'
-    label: Contact me
-  - type: contact
-    url: 'tel:7025189420'
-    label: Call (702) 518-9420
-author:
-  name: Trevor Mears
-  email: trevor@shiftframe.com
-  url: 'http://trevormears.com'
-analytics:
-  google: UA-99971719-1
-url: 'https://trevormears.com'
-github: true
+  - type: external
+    url: 'https://goo.gl/forms/uDL1QbAOh2CQsEMn2'
+    label: Contact Me
