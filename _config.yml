@@ -30,6 +30,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Las Vegas SEO
+    id: 162ec4a0-1a78-4a5c-a47c-92f49cf84a9d
+    type: content
   - name: My Process
     id: d0036f63-d71d-41f8-a826-5bbb95b8ce5e
     type: content
@@ -45,9 +48,6 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/trevormears'
     type: external
-  - name: Las Vegas SEO
-    id: 162ec4a0-1a78-4a5c-a47c-92f49cf84a9d
-    type: content
 title: Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
