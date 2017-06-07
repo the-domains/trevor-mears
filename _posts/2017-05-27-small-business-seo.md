@@ -14,8 +14,8 @@ description: >-
   with clients locally in Las Vegas or on a global market, Trevor's innovative
   digital strategies can place your web site in the right place at the right
   time.
-dateModified: '2017-05-28T00:48:34.553Z'
-datePublished: '2017-05-28T00:48:34.732Z'
+dateModified: '2017-05-28T00:35:15.968Z'
+datePublished: '2017-05-28T00:35:16.197Z'
 title: Small Business SEO
 author: []
 publisher: {}
