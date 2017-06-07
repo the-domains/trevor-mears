@@ -10,8 +10,8 @@ description: >-
   guaranteed SEO results and increased website visibility, then contact Trevor
   today for a FREE website analysis to see how your site is currently performing
   in search engines.
-dateModified: '2017-06-03T04:51:13.455Z'
-datePublished: '2017-06-03T04:51:13.912Z'
+dateModified: '2017-06-03T04:51:21.795Z'
+datePublished: '2017-06-03T04:51:22.146Z'
 title: Las Vegas SEO Expert
 author: []
 publisher: {}
