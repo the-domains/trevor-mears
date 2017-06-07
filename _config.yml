@@ -1,5 +1,5 @@
-layout_spectrum: 0.26549104156913145
-typography_spectrum: 0.6437043587936292
+layout_spectrum: 0.2919329657137283
+typography_spectrum: 0.6494201442218469
 color:
   brandColors:
     - '#000000'
@@ -7,10 +7,10 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.5665470180303633
-  lightness: 0.22805456875961755
-  saturation: 0.7083254787720518
-  rhythmicContrast: 0.9872022426301742
+  brandStrength: 0.5692042780453617
+  lightness: 0.22151678802685276
+  saturation: 0.9723906275971175
+  rhythmicContrast: 0.49445062653530425
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f8cc5-1235-4b41-ab2f-5f7f61643b36.png
 name: Trevor Mears | Las Vegas SEO Expert & Digital Marketing Consultant
