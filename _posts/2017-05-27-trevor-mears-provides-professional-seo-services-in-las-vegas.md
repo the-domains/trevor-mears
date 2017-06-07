@@ -4,14 +4,15 @@ description: >-
   Trevor Mears provides professional SEO services in Las Vegas & beyond that
   will help your business website drastically increase organic search traffic
   and compete for 1st-page rankings on highly competitive keywords. Trevor has
-  been optimizing websites to rank on the 1st page of Google since 2001. Just
-  search Google for "Las Vegas SEO Expert" without the quotes, and you'll see
-  what comes up on the first page. If you have a business in Las Vegas and want
-  guaranteed SEO results and increased website visibility, then contact Trevor
-  today for a FREE website analysis to see how your site is currently performing
-  in search engines.
-dateModified: '2017-06-03T04:51:21.795Z'
-datePublished: '2017-06-03T04:51:22.146Z'
+  been optimizing websites to rank on the 1st page of Google since 2001 and has
+  provided his services to many of the top SEO agencies and marketing companies
+  in the world. Just search Google for "Las Vegas SEO Expert" without the
+  quotes, and you'll see what comes up on the first page. If you have a business
+  in Las Vegas and want guaranteed SEO results and increased website visibility,
+  then contact Trevor today for a FREE website analysis to see how your site is
+  currently performing in search engines.
+dateModified: '2017-05-28T02:57:24.821Z'
+datePublished: '2017-05-28T02:57:25.562Z'
 title: Las Vegas SEO Expert
 author: []
 publisher: {}
@@ -27,5 +28,5 @@ _type: Article
 ---
 ### Las Vegas SEO Expert
 
-Trevor Mears provides professional SEO services in Las Vegas & beyond that will help your business website drastically increase organic search traffic and compete for 1st-page rankings on highly competitive keywords. Trevor has been optimizing websites to rank on the 1st page of Google since 2001\. Just search Google for "Las Vegas SEO Expert" without the quotes, and you'll see what comes up on the first page. If you have a business in Las Vegas and want guaranteed SEO results and increased website visibility, then contact Trevor today for a FREE website analysis to see how your site is currently performing in search engines.
+Trevor Mears provides professional SEO services in Las Vegas & beyond that will help your business website drastically increase organic search traffic and compete for 1st-page rankings on highly competitive keywords. Trevor has been optimizing websites to rank on the 1st page of Google since 2001 and has provided his services to many of the top SEO agencies and marketing companies in the world. Just search Google for "Las Vegas SEO Expert" without the quotes, and you'll see what comes up on the first page. If you have a business in Las Vegas and want guaranteed SEO results and increased website visibility, then contact Trevor today for a FREE website analysis to see how your site is currently performing in search engines.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daf5f816-4000-439d-8ec6-384cb12522e0.png)
