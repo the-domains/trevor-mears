@@ -40,7 +40,7 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/trevormears'
     type: external
-title: Trevor Mears
+title: Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -66,7 +66,10 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Las Vegas SEO Expert, Digital Marketing Consultant, Full Stack Developer'
+description: >-
+  Las Vegas SEO Expert Trevor Mears can help increase website visibility and
+  generate new business.  Contact Trevor today for a FREE website analysis to
+  see how your site is currently performing in search engines.
 purpose:
   - type: contact
     url: 'mailto:trevor@shiftframe.com'
