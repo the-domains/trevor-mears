@@ -79,6 +79,6 @@ description: >-
   Trevor today for a FREE website analysis to see how your site is currently
   performing in search engines.
 purpose:
-  - type: contact
-    url: 'mailto:trevor@shiftframe.com'
-    label: Contact me
+  - type: external
+    url: 'https://goo.gl/forms/uDL1QbAOh2CQsEMn2'
+    label: Contact Me
