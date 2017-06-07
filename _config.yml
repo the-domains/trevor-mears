@@ -1,5 +1,4 @@
-layout_spectrum: 0.2919329657137283
-typography_spectrum: 0.6494201442218469
+typography_spectrum: 0.6426826775554421
 color:
   brandColors:
     - '#000000'
@@ -7,10 +6,11 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.5692042780453617
-  lightness: 0.22151678802685276
-  saturation: 0.9723906275971175
-  rhythmicContrast: 0.49445062653530425
+  brandStrength: 0.41191383514239793
+  lightness: 0.008040482611718153
+  saturation: 0.9450567269652602
+  rhythmicContrast: 0.660141488989852
+layout_spectrum: 0.26951200701517636
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7f8cc5-1235-4b41-ab2f-5f7f61643b36.png
 name: Trevor Mears | Las Vegas SEO Expert & Digital Marketing Consultant
@@ -40,7 +40,7 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/trevormears'
     type: external
-title: Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears
+title: Trevor Mears
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -66,10 +66,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: >-
-  Las Vegas SEO Expert & Digital Marketing Consultant Trevor Mears.  Contact
-  Trevor today for a FREE website analysis to see how your site is currently
-  performing in search engines.
+description: 'Las Vegas SEO Expert, Digital Marketing Consultant, Full Stack Developer'
 purpose:
   - type: contact
     url: 'mailto:trevor@shiftframe.com'
